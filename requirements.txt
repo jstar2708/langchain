@@ -1,0 +1,28 @@
+# 1. Framework & Logic
+langchain
+langchain-community
+langgraph
+langchain_experimental
+
+# 2. Model Providers (Only the integrations)
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-huggingface
+langchain-cohere
+langchain-ollama
+
+# 3. Vector Stores & Document Loading
+chroma
+faiss-cpu
+pypdf
+
+# 4. Tools & Utilities
+python-dotenv
+streamlit
+wikipedia
+duckduckgo-search
+youtube-transcript-api
+
+# 5. Graph Visualization (Optional)
+grandalf
